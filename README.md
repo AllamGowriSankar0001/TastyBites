@@ -4,7 +4,7 @@ Welcome to **Tasty Bites** – your ultimate destination for delicious recipes, 
 
 ## 🌐 Deployment
 
-View the live site here: [Tasty Bites Deployment](https://allamgowrisankar0001.github.io/Tastey-Bites/)
+View the live site here: [Tasty Bites Deployment](https://allamgowrisankar0001.github.io/Tasty-Bites/)
 
 ## 📖 About the Project
 
@@ -27,7 +27,7 @@ Tasty Bites is a modern recipe web app that helps food lovers discover, search, 
 
 ## 🚀 How to Use
 
-1. Visit the [deployment link](https://allamgowrisankar0001.github.io/Tastey-Bites/).
+1. Visit the [deployment link](https://allamgowrisankar0001.github.io/Tasty-Bites/).
 2. Browse featured recipes or search for your favorite dish.
 3. Explore categories to find new meal ideas.
 4. Click on any recipe to view ingredients and instructions.
