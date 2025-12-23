@@ -4,7 +4,7 @@ Welcome to **Tasty Bites** – your ultimate destination for delicious recipes, 
 
 ## 🌐 Deployment
 
-View the live site here: [Tasty Bites Deployment](https://allamgowrisankar0001.github.io/Tasty-Bites/)
+View the live site here: [Tasty Bites Deployment](https://allamgowrisankar0001.github.io/TastyBites/)
 
 ## 📖 About the Project
 
